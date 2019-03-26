@@ -3,3 +3,5 @@
 又增加了新的测试文档
 
 这是DEV分支上新增加的内容
+git pull --rebase origin master
+git pull --rebase origin mastergit pull --rebase origin mastergitgit pull --rebase origin mastergit pull --rebase origin mastergit pull --rebase origin mastergit pull --rebase origin master
